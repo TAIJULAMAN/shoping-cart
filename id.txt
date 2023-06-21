@@ -1,0 +1,15 @@
+// phone
+//<button id="btn-phone-plus"</button>
+//<input id="phone-number-field" value="1">
+//<button id="btn-phone-minus"</button>
+//<h5>$<span id="phone-total">1219</span></h5>
+// case
+//<button id="btn-case-plus"</button>
+//<input id="case-number-field" value="1">
+//<button id="btn-case-minus"</button>
+//<h5>$<span id="case-total">59</span></h5>
+// total
+// <h5>$<span id="sub-total">1278</span></h5>
+// <h5>$<span id="tax-amount">0</span></h5>
+// <h5>$<span id="final-total">1278</span></h5> 
+
